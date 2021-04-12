@@ -1,0 +1,18 @@
+:root {
+}
+
+@tailwind base;
+
+html, body, #app {
+  @apply h-full;
+}
+
+input,
+textarea,
+button,
+button:focus {
+  @apply outline-none
+}
+
+@tailwind components;
+@tailwind utilities;
