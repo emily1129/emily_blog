@@ -8,11 +8,6 @@
         :alt="villager.personality"
       >
     </div>
-    <img
-      src="@/assets/logo.png"
-      alt="redpay.io"
-      class="fixed absolute-center"
-    >
   </div>
 </template>
 
@@ -34,12 +29,6 @@ export default {
 </script>
 
 <style scoped>
-.absolute-center {
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .grid-cols-18 {
   grid-template-columns: repeat(18, minmax(0, 1fr));
 }
