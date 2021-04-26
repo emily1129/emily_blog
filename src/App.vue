@@ -4,7 +4,7 @@
     class="flex flex-col"
   >
     <div class="flex flex-grow">
-      <div class="w-72 flex-shrink-0 p-4 bg-orange-500 border-r border-gray-200 text-lg text-white">
+      <div class="w-64 flex-shrink-0 p-4 bg-orange-500 border-r border-gray-200 text-lg text-white">
         <img
           src="@/assets/icons/btn_menu.png"
           class="w-6 h-6 m-4 mb-10 cursor-pointer"
