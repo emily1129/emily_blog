@@ -18,9 +18,9 @@ const routes = [
         component: () => import('@/components/Profile')
       },
       {
-        path: 'web',
-        name: 'web',
-        component: () => import('@/components/Web')
+        path: 'work',
+        name: 'work',
+        component: () => import('@/components/Work')
       }
     ]
   }
